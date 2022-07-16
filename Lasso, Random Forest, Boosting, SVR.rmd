@@ -199,15 +199,3 @@ df
 
 ```
 
-## part h: Summary figure (2 points)
-Create a $4 \times 2$ figures with rows corresponding to each of the four methods and each column to train and test data, and each pannel should be a plot $y$ versus $\hat y$. The objective is to see how these methods are qualitatively different.
-```{r}
-
-```
-
-
-## Problem 2 (6 points)
-Read section 10.5 of the ESL book. Show that $\arg \min_f E_{Y|x} \log(1+ e^{-2Y f(x)}) = \arg \min_f E_{Y|x} e^{-Y f(x)}$.
-
-## Extra credit: Problem 3 (6 points)
-Problem 12.1 of the ESL book.
